@@ -1,7 +1,6 @@
-# Workflow Automation App: Part 1 - Workflow Automation with Twilio - Laravel
+Workflow Automation with Twilio - Laravel, JS,
 
-A demo app of a rental home that can be reserved using text message.
-
+A demo app of a rental company that allow clients to books and pay for rental stays via SMS. 
 Here's how it'll work:
 
 A host creates a vacation property listing
