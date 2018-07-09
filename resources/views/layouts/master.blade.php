@@ -44,8 +44,7 @@
     </section>
 
     <footer>
-        Made with <i class="fa fa-heart"></i> by your pals
-        <a href="http://www.twilio.com">@twilio</a>
+        Made with <i class="fa fa-heart"></i>
     </footer>
     <!-- JavaScript -->
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
